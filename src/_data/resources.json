@@ -1281,6 +1281,12 @@
 			"additional": "Indrek Paas",
 			"url": "https://packagecontrol.io/packages/WAI-ARIA"
 		}
+		{
+			"title": "WCAGdesk",
+			"description": "WCAGdesk is a continuous WCAG 2.2 AA monitoring tool that generates RFC 3161 timestamped, tamper-evident evidence records for the EU Accessibility Act (EAA) and Germany's BFSG. Includes a free instant scanner and accessibility statement generator — no signup required.",
+			"additional": "SideLabs",
+			"url": "https://wcagdesk.eu"
+		},
 	],
 	"email": [
 		{
